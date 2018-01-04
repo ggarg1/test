@@ -7,7 +7,6 @@ public class MyClass {
 		
 		System.out.println("This is Gaurav Garg testing using GIT again");
 		
-		System.out.println("This is Testing");
 	}
 
 }
