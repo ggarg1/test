@@ -3,6 +3,9 @@ import java.io.IOException;
 
 public class Gaurav {
 
+	 private static int count = 0;
+
+	
 	public static void main(String[] args) {
 		
 				System.out.println("This is Gaurav Garg testing using GIT");
@@ -16,5 +19,10 @@ public class Gaurav {
 					e.printStackTrace();
 				}
 	}
+	
+	public void doSomething() {
+	    //...
+	    count++;  // Noncompliant
+	  }
 
 }
