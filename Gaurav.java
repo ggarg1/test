@@ -3,7 +3,7 @@ import java.io.IOException;
 
 public class Gaurav {
 
-	 private static int count = 0;
+//	 private static int count = 0;
 
 	
 	public static void main(String[] args) {
@@ -12,7 +12,7 @@ public class Gaurav {
 				
 				Process process =null;
 		
-	System.out.println("This is Gaurav Garg testing using GIT");		
+			System.out.println("This is Gaurav Garg testing using GIT");		
 				try {
 					process.getOutputStream().close();
 				} catch (IOException e) {
@@ -21,10 +21,10 @@ public class Gaurav {
 				}
 	}
 	
-	public void doSomething() {
+	//public void doSomething() {
 	    //...
-	    count++;  // Noncompliant
-	  }
+	//    count++;  // Noncompliant
+	 // }
 
 	  
 }
