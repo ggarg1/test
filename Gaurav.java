@@ -3,7 +3,7 @@ import java.io.IOException;
 
 public class Gaurav {
 
-//	 private static int count = 0;
+	 private static int count = 0;
 
 	
 	public static void main(String[] args) {
@@ -21,10 +21,10 @@ public class Gaurav {
 				}
 	}
 	
-	//public void doSomething() {
+	public void doSomething() {
 	    //...
-	//    count++;  // Noncompliant
-	 // }
+	    count++;  // Noncompliant
+	  }
 
 	  
 }
