@@ -11,9 +11,7 @@ public class Test {
 				System.out.println("This is Gaurav Garg testing using GIT");
 				
 				System.out.println("Tetsing PR 3");
-																System.out.println("Tetsing PR");
-								System.out.println("Tetsing PR222");System.out.println("Tetsing PR");
-								System.out.println("Tetsing PR 35555");
+																
 								System.out.println("Tetsing PR"); System.out.println("Tetsing PR1");
 				Process process =null;
 		
